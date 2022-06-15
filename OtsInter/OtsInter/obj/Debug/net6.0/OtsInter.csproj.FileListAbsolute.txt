@@ -1,0 +1,15 @@
+C:\Users\esto0\source\repos\OtsInter\OtsInter\bin\Debug\net6.0\OtsInter.exe
+C:\Users\esto0\source\repos\OtsInter\OtsInter\bin\Debug\net6.0\OtsInter.deps.json
+C:\Users\esto0\source\repos\OtsInter\OtsInter\bin\Debug\net6.0\OtsInter.runtimeconfig.json
+C:\Users\esto0\source\repos\OtsInter\OtsInter\bin\Debug\net6.0\OtsInter.dll
+C:\Users\esto0\source\repos\OtsInter\OtsInter\bin\Debug\net6.0\OtsInter.pdb
+C:\Users\esto0\source\repos\OtsInter\OtsInter\obj\Debug\net6.0\OtsInter.csproj.AssemblyReference.cache
+C:\Users\esto0\source\repos\OtsInter\OtsInter\obj\Debug\net6.0\OtsInter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\esto0\source\repos\OtsInter\OtsInter\obj\Debug\net6.0\OtsInter.AssemblyInfoInputs.cache
+C:\Users\esto0\source\repos\OtsInter\OtsInter\obj\Debug\net6.0\OtsInter.AssemblyInfo.cs
+C:\Users\esto0\source\repos\OtsInter\OtsInter\obj\Debug\net6.0\OtsInter.csproj.CoreCompileInputs.cache
+C:\Users\esto0\source\repos\OtsInter\OtsInter\obj\Debug\net6.0\OtsInter.dll
+C:\Users\esto0\source\repos\OtsInter\OtsInter\obj\Debug\net6.0\refint\OtsInter.dll
+C:\Users\esto0\source\repos\OtsInter\OtsInter\obj\Debug\net6.0\OtsInter.pdb
+C:\Users\esto0\source\repos\OtsInter\OtsInter\obj\Debug\net6.0\OtsInter.genruntimeconfig.cache
+C:\Users\esto0\source\repos\OtsInter\OtsInter\obj\Debug\net6.0\ref\OtsInter.dll
