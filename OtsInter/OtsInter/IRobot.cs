@@ -10,6 +10,6 @@ namespace OtsInter
     {
         string GetInfo();
         List<object> GetComponents();
-        string GetRobotType(string s = "I am a simple robot");
+        string GetRobotType() => "I am a simple robot";
     }
 }

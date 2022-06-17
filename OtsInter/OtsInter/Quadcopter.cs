@@ -9,7 +9,7 @@ namespace OtsInter
     internal class Quadcopter : IFlyingRobot, IChargeable
     {
         List<object> _components = new List<object>{"rotor1","rotor2","rotor3","rotor4"};
-
+        
         public void Charge()
         {
             Thread.Sleep(3000);
@@ -26,9 +26,10 @@ namespace OtsInter
             throw new NotImplementedException();
         }
 
-        public string GetRobotType(string s = "I am a simple robot")
-        {
-            throw new NotImplementedException();
-        }
+
+        //public string GetRobotType()
+        //{
+        //    return "I am a flying robot";
+        //}
     }
 }
