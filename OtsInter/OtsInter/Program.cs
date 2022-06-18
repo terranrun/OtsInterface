@@ -1,9 +1,10 @@
 ﻿
 using OtsInter;
+Quadcopter robot = new Quadcopter();
 
-IChargeable robot = new Quadcopter();
 
 robot.Charge();
-
-//Console.WriteLine( robot.GetInfo());Console.WriteLine(   flyRobot.GetRobotType());
+Console.WriteLine(robot.GetInfo());
+Console.WriteLine(((IFlyingRobot)robot).GetRobotType());
 Console.ReadLine();
+
